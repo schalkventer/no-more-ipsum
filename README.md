@@ -36,6 +36,14 @@ Get started quickly and easily with our intuitive user interface
 - Scheduling Features: Automated scheduling tools to make booking easier.
 - Secure Platform: Encrypted platform for secure communication.
 
+**Safe and reliable**
+
+With our best in class authentication prototcols, professional pet sitters are thoroughly vetted, giving you peace of mind while you're away.
+
+- In-person Interviews 
+- Credential Verification 
+- Recommendation Algorithm
+
 ### JamCloud
 
 <p float="left">
