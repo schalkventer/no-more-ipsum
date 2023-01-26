@@ -4,8 +4,10 @@ Free
 
 # Petsu
 
-<img src="images/petsu-1.png" width="400" align="left" />
-<img src="images/petsu-2.png" width="400" align="right" />
+<p float="left">
+    <img src="images/petsu-1.png" width="400" />
+    <img src="images/petsu-2.png" width="400" />
+</p>
 
 **Your Personal Petsitter Solution**
 
