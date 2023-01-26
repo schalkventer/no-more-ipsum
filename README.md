@@ -1,6 +1,7 @@
 <!-- omit in toc -->
 # 🚫 No Ipsum
 
+Free demo branding and API endpoints that you are welcome to used in portfolio projects
 
 Licensed for unrestricted usage under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
