@@ -1,6 +1,9 @@
 <!-- omit in toc -->
 # 🚫 No Ipsum
 
+
+Licensed for unrestricted usage under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
 <!-- omit in toc -->
 ## Table of Contents
 - [Fake SaaS Products](#fake-saas-products)
