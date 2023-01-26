@@ -1,8 +1,19 @@
+<!-- omit in toc -->
 # No Ipsum
 
-Free 
+<!-- omit in toc -->
+## Table of Contents
 
-# Petsu
+- [Petsu](#petsu)
+- [JamCloud](#jamcloud)
+- [WorkFlex](#workflex)
+- [FleetMate](#fleetmate)
+- [Onesheet](#onesheet)
+
+
+## Fake SaaS Products
+
+### Petsu
 
 <p float="left">
     <img src="images/petsu-1.png" width="400" />
@@ -21,10 +32,12 @@ Get started quickly and easily with our intuitive user interface
 - Scheduling Features: Automated scheduling tools to make booking easier.
 - Secure Platform: Encrypted platform for secure communication.
 
-# JamCloud
+### JamCloud
 
-<img src="images/jamcloud-1.png" width="400" />
-<img src="images/jamcloud-2.png" width="400" />
+<p float="left">
+    <img src="images/jamcloud-1.png" width="400" />
+    <img src="images/jamcloud-2.png" width="400" />
+</p>
 
 **Music Creation in the Cloud**
 
@@ -46,10 +59,12 @@ JamCloud offers reliable and comprehensive recording tools, giving users the sam
 - Dynamic EQ
 - Noise Reduction
 
-# WorkFlex
+### WorkFlex
 
-<img src="images/workflex-1.png" width="400" />
-<img src="images/workflex-2.png" width="400" />
+<p float="left">
+    <img src="images/workflex-1.png" width="400" />
+    <img src="images/workflex-2.png" width="400" />
+</p>
 
 **Effortless Online Scheduling**
 
@@ -71,10 +86,12 @@ Helps users stay on top of time-sensitive data in real-time, helping them make i
 - Analyze trends
 - Generate reports
 
-# FleetMate
+### FleetMate
 
-<img src="images/fleetmate-1.png" width="400" />
-<img src="images/fleetmate-2.png" width="400" />
+<p float="left">
+    <img src="images/fleetmate-1.png" width="400" />
+    <img src="images/fleetmate-2.png" width="400" />
+</p>
 
 **Your Logistics, Our Priority**
 
@@ -97,8 +114,10 @@ Intergrates with a range of third-party sensors to provide precise data, enablin
 
 # Onesheet
 
-<img src="images/onesheet-1.png" width="400" />
-<img src="images/onesheet-2.png" width="400" />
+<p float="left">
+    <img src="images/onesheet-1.png" width="400" />
+    <img src="images/onesheet-2.png" width="400" />
+</p>
 
 **Stupidly Simple Accounting**
 
