@@ -1,14 +1,14 @@
 <!-- omit in toc -->
-# No Ipsum
+# 🚫 No Ipsum
 
 <!-- omit in toc -->
 ## Table of Contents
-
-- [Petsu](#petsu)
-- [JamCloud](#jamcloud)
-- [WorkFlex](#workflex)
-- [FleetMate](#fleetmate)
-- [Onesheet](#onesheet)
+- [Fake SaaS Products](#fake-saas-products)
+  - [Petsu](#petsu)
+  - [JamCloud](#jamcloud)
+  - [WorkFlex](#workflex)
+  - [FleetMate](#fleetmate)
+  - [Onesheet](#onesheet)
 
 
 ## Fake SaaS Products
@@ -112,7 +112,7 @@ Intergrates with a range of third-party sensors to provide precise data, enablin
 - Real-time sensors
 - Digital video feed
 
-# Onesheet
+### Onesheet
 
 <p float="left">
     <img src="images/onesheet-1.png" width="400" />
