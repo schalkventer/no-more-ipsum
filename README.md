@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# 🚫 No Ipsum
+# 🚫 No More Ipsum
 
 **Free demo branding and API endpoints that you are welcome to used in portfolio projects**
 
